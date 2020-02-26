@@ -1,0 +1,31 @@
+body {
+  width: 1024px;
+  height: 2000px;
+  background-color: wheat; }
+
+.sidebar {
+  position: absolute;
+  width: 5rem;
+  height: 180rem;
+  background-color: yellow;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0; }
+.parent {
+  background-color: aqua;
+  width: 100%;
+  height: 600px;
+display: grid;
+grid-template-columns: repeat(12, 1fr);
+grid-template-rows: repeat(12, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 1 / 10 / 13 / 13; background-color: blue; }
+.div2 { grid-area: 1 / 4 / 2 / 7; background-color: brown;}
+.div3 { grid-area: 11 / 1 / 13 / 10; background-color: yellow;}
+.div4 { grid-area: 8 / 2 / 9 / 4;background-color: purple; }
+.div5 { grid-area: 6 / 2 / 7 / 7; background-color: red;}
+.div6 { grid-area: 5 / 2 / 6 / 4; background-color: tan;}
