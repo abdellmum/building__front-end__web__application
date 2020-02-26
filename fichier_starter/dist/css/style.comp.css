@@ -1,4 +1,14 @@
 body {
   width: 1024px;
   height: 2000px;
-  background-color: #7700ff; }
+  background-color: wheat; }
+
+.sidebar {
+  position: absolute;
+  width: 5rem;
+  height: 180rem;
+  background-color: yellow;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0; }
