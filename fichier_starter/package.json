@@ -10,7 +10,6 @@
     "compress:css": "node-sass dist/css/style.prefix.css dist/css/style.css --output-style compressed",
     "building-prod": "npm-run-all compress:css",
     "fin-production": "===========================================",
-
     "Mode-dev": "==============Branch dev==============",
     "watch-dev": "node-sass sass/main.scss dist/css/style.prefix.css -w",
     "start:dev": "concurrently  \"npm run server:prod\" \"npm run watch-dev\"",
@@ -21,7 +20,6 @@
     "start": "npm-run-all compiler:comp compiler:sass concat:css prefix:css",
     "start:watch": "npm-run-all compiler:comp compiler:sass concat:css prefix:css server:prod",
     "fin-dev": "==============Branch dev==============",
-
     "deploying": "==============Branch Prod==============",
     "watch-deploy": "node-sass sass/main.scss dist/css/style.css -w",
     "start:deploy": "concurrently  \"npm run server:prod\" \"npm run watch-deploy\"",
