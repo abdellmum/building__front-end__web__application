@@ -4473,7 +4473,9 @@ readers do not read off random characters that represent icons */
   grid-column-gap: 15px;
   grid-row-gap: 15px;
   animation: shake 3s;
-  text-align: center; }
+  text-align: center;
+  letter-spacing: 0.5px;
+  background-color: rgba(0, 0, 0, 0.2); }
   .features__services1 {
     grid-area: 1 / 1 / 2 / 2;
     text-align: center;
