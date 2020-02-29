@@ -4485,29 +4485,21 @@ readers do not read off random characters that represent icons */
   background-color: rgba(0, 0, 0, 0.2); }
   .features__services1 {
     grid-area: 1 / 1 / 2 / 2;
-    text-align: center;
-    -webkit-animation: fadeInRightBig 2s;
-            animation: fadeInRightBig 2s; }
+    text-align: center; }
   .features__services2 {
-    grid-area: 1 / 2 / 2 / 3;
-    -webkit-animation: fadeInRightBig 2s;
-            animation: fadeInRightBig 2s; }
+    grid-area: 1 / 2 / 2 / 3; }
   .features__services3 {
-    grid-area: 1 / 3 / 2 / 4;
-    -webkit-animation: fadeInRightBig 2s;
-            animation: fadeInRightBig 2s; }
+    grid-area: 1 / 3 / 2 / 4; }
   .features__services4 {
-    grid-area: 2 / 1 / 3 / 2;
-    -webkit-animation: fadeInRightBig 2s;
-            animation: fadeInRightBig 2s; }
+    grid-area: 2 / 1 / 3 / 2; }
   .features__services5 {
-    grid-area: 2 / 2 / 3 / 3;
-    -webkit-animation: fadeInRightBig 2s;
-            animation: fadeInRightBig 2s; }
+    grid-area: 2 / 2 / 3 / 3; }
   .features__services6 {
-    grid-area: 2 / 3 / 3 / 4;
-    -webkit-animation: fadeInRightBig 2s;
-            animation: fadeInRightBig 2s; }
+    grid-area: 2 / 3 / 3 / 4; }
+
+.features:hover {
+  background-color: #5b9bd5;
+  color: white; }
 
 .logo {
   display: grid;
