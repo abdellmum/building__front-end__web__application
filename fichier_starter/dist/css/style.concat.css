@@ -4503,7 +4503,7 @@ readers do not read off random characters that represent icons */
   .logo img {
     width: 50%; }
 
-.grid {
+.home {
   background-image: url(/dist/img/back.jpg);
   background-size: cover;
   display: grid;
@@ -4511,16 +4511,16 @@ readers do not read off random characters that represent icons */
   grid-template-rows: repeat(3, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 15px; }
-  .grid__title {
+  .home__title {
     grid-area: 2 / 1 / 3 / 5;
     margin-left: 10em; }
-    .grid__title h1 {
+    .home__title h1 {
       font-size: 3em;
       color: #000000; }
-    .grid__title p {
+    .home__title p {
       font-size: 2em;
       color: #000000; }
-  .grid__title--btn {
+  .home__title--btn {
     background-color: #5b9bd5;
     border: none;
     width: 20%;
@@ -4533,33 +4533,53 @@ readers do not read off random characters that represent icons */
     margin-top: 2rem;
     color: white;
     cursor: pointer; }
-  .grid__title--logos {
+    .home__title--btn:hover {
+      color: #5b9bd5;
+      background-color: #9ea2a5; }
+  .home__title--logos {
     grid-area: 3 / 1 / 4 / 5;
     display: inline; }
-    .grid__title--logos h4 {
-      text-align: center;
+    .home__title--logos h4 {
       font-size: 2em;
-      color: #ffffff; }
-    .grid__title--logos img {
+      color: #ffffff;
+      margin-top: 1em;
+      text-align: center;
+      text-transform: uppercase; }
+    .home__title--logos h4.no-span {
+      display: table;
+      white-space: nowrap; }
+    .home__title--logos h4.no-span:before,
+    .home__title--logos h4.no-span:after {
+      border-top: 0.08em  solid black;
+      content: '';
+      display: table-cell;
+      position: relative;
+      top: 0.5em;
+      width: 45%; }
+    .home__title--logos h4.no-span:before {
+      right: 0; }
+    .home__title--logos h4.no-span:after {
+      left: 0; }
+    .home__title--logos img {
       width: 10em;
       height: 3em;
       padding: 2em; }
-  .grid__agents {
+  .home__agents {
     grid-area: 1 / 5 / 4 / 6;
     background-color: #828082; }
-    .grid__agents h2 {
+    .home__agents h2 {
       text-align: center;
       margin-bottom: .5em;
       color: white; }
-    .grid__agents h3 {
+    .home__agents h3 {
       text-align: center;
       color: white; }
-    .grid__agents p {
+    .home__agents p {
       color: white; }
-  .grid__agents--realtors {
+  .home__agents--realtors {
     display: grid;
     justify-content: center;
     grid-row-gap: 1em; }
-    .grid__agents--realtors img {
+    .home__agents--realtors img {
       width: 14em;
       height: 10em; }
