@@ -32,7 +32,7 @@ $color-bk:rgb(130, 128, 130);
     }
 }
 
-.grid {
+.home {
     
     background-image: url(/dist/img/back.jpg);
     background-size: cover;
@@ -65,15 +65,43 @@ $color-bk:rgb(130, 128, 130);
     }
     &__title--btn{
         @include btn;
+        &:hover{
+            color: $color-bleu;
+            background-color: #9ea2a5;
+        }
     }
     &__title--logos{
         grid-area: 3 / 1 / 4 / 5;
         display: inline;
-        h4{
-            text-align: center;
+       
+        h4 {
             font-size: 2em;
             color:#ffffff;
-        }
+            margin-top: 1em;
+            text-align: center;
+            text-transform: uppercase;
+          }
+          
+          h4.no-span {
+            display: table;
+            white-space: nowrap;
+          }
+          h4.no-span:before,
+          h4.no-span:after {
+            border-top: 0.08em  solid black;
+            
+            content: '';
+            display: table-cell;
+            position: relative;
+            top: 0.5em;
+            width: 45%;
+          }
+          h4.no-span:before {
+            right: 0;
+          }
+          h4.no-span:after {
+            left: 0;
+          }
         img{
             width: 10em;
             height: 3em;
