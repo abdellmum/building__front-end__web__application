@@ -1,0 +1,70 @@
+.book{
+   
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 2em;
+    grid-row-gap: 0px;
+    
+    &__img1{
+    
+        grid-area: 1 / 1 / 3 / 3; 
+      img{
+       
+        object-fit: cover;
+        width: 100%;
+        min-height: 100%;
+    }
+        
+
+    }
+    &__img2{
+        grid-area: 3 / 1 / 5 / 3; 
+        
+        img{
+            
+           object-fit: cover;
+           width: 100%;
+           max-height: 100%;
+        }  
+
+    }
+    &__prg{
+        grid-area: 1 / 3 / 2 / 7; 
+        text-align: center;
+    }
+    &__text1{
+        grid-area: 2 / 3 / 4 / 5;
+    }
+    &__text2{
+        grid-area:  2 / 5 / 4 / 7; 
+
+    }
+    &__btn{
+        grid-area: 4 / 3 / 5 / 7;
+        text-align: center;
+        
+        .submit{
+            background-color:#5b9bd5;
+    border: none;
+    width: 20%;
+    padding: 1em 0em;
+    font-weight: bold;
+    border-radius: 10px;
+    left: 10%;
+    position: relative;
+    transform: translateX(-50%);
+    margin-top: 2rem;
+    color: white;
+    cursor: pointer;
+
+        }
+        
+    }
+
+
+
+
+
+
+    }
