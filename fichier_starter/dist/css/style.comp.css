@@ -168,6 +168,7 @@
       width: 14em;
       height: 10em; }
 
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -261,3 +262,48 @@ a:visited {
 
 .titre {
   padding-left: 13em; }
+=======
+.footers {
+  background-color: #828082; }
+  .footers__col2 {
+    color: black;
+    text-decoration: none;
+    padding-top: 2em;
+    text-align: center; }
+
+.footers__col2 li {
+  display: inline;
+  color: black;
+  font-size: 1em;
+  text-decoration: none;
+  margin: 55px 55px;
+  text-align: center; }
+
+.logo2 {
+  margin-left: 30%;
+  padding-top: 7%;
+  font-size: 2px; }
+
+.footer__copyright {
+  padding-top: 9%;
+  margin-left: 4%; }
+
+/*.footers__email
+ {
+   
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+    margin-left: 50em;
+    margin-bottom: 12em;
+    }*/
+.footers__email {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: flex-end;
+  align-content: stretch; }
+  .footers__email__input {
+    width: 80px; }
+>>>>>>> 70f4c7af588f1ba0863f45357b33f4ba8eb8326d
