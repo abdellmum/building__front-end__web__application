@@ -14,29 +14,26 @@
 </head>
 <body>
        <!-- section contact start-->
-    <div class="contact">
-        <div class="contact__header"></div>
-        <div class="contact__agent">
-            <div class="contactez-nos">
-                <div class="conactez-nos__mail">
-                    <h2>contactez votre agent</h2>
-                    <input type="name" placeholder="Nom complet" />
-                    <input type="email" placeholder="Email address" />
-                    <form action="/action_page.php" method="get">
-                        <input type="checkbox" name="type" value="type">
-                        <label for="vehicle1"> Entreprise</label><br>
-                        <input type="checkbox" name="type" value="type">
-                        <label for="vehicle2"> Particulier</label><br>
-
-                      </form>
-                      <div class="footers-div">
-                        <button class="submit" type="submit">send</button>
-                      </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
+       <a href="#modal" class="modal-open">contact</a>
+ 
+       <div class="modal" id="modal">
+          <div class="modal__content">
+            <a href="#" class="modal__close">&times;</a>
+            <h2 class="titre">Contactez votre agent</h2>
+                    <input class="email" type="name" placeholder="Nom complet" />
+                    <input class="email" type="email" placeholder="Email address" />
+                    <form  class="chek" action="/action_page.php" method="get">
+                    <input  class="checkbox" type="checkbox" name="type" value="type">
+                    <label  class="checkbox" for="vehicle1"> Entreprise</label>
+                    <input  class="checkbox" type="checkbox" name="type" value="type">
+                    <label  class="checkbox" for="vehicle2"> Particulier</label>
+                    <div class="button">
+                      <button class="btn" >send</button>
+                     
+                    </div>
+            
+          </div>
+       </div>
     <!-- section contact end-->
 
     <script src="js/all.js"></script>
