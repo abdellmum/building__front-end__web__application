@@ -502,3 +502,23 @@ a:visited {
 
 .hamburger > div:after {
   top: 10px; }
+
+/* Toggler animate */
+.toggler:checked + .hamburger > div {
+  transform: rotate(135deg); }
+
+.toggler:checked:hover + .hamburger > div {
+  transform: rotate(225deg); }
+
+.toggler:checked + .hamburger > div:after, .toggler:checked + .hamburger > div:before {
+  transform: rotate(90deg);
+  top: 0; }
+
+.toggler:checked ~ .menu {
+  visibility: visible; }
+
+.toggler:checked ~ .menu > div {
+  transform: translateX(-50%) translateY(-50%); }
+
+.toggler:checked ~ .menu > div > div {
+  opacity: 1; }
