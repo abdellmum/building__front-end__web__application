@@ -113,6 +113,9 @@
 .gallerie__gal13 {
   grid-area: 2 / 2 / 4 / 4; }
 
+.title {
+  text-align: center; }
+
 .logo {
   display: grid;
   justify-items: center;
