@@ -69,7 +69,23 @@
     }
 }
 .titre{
-    padding-left: 15em;
+    // padding-left: 15em;
     font-size: 2em;
     color:#9cb4c7;
+    text-align: center;
 }
+
+@media screen and (min-width: 640px) {
+    .chek{
+   
+    text-align: center;
+    
+    }
+    
+    
+    .titre{
+        
+        font-size: 1.5em;
+    }
+    
+  }
