@@ -6,7 +6,7 @@
     text-align: center;
     letter-spacing: 0.5px;
     background-color: rgba(0, 0, 0, 0.2);
-     overflow: hidden;   
+      
 
 
 
@@ -22,13 +22,7 @@
 &__services1 {
     grid-area: 1 / 1 / 2 / 2;
     text-align: center;
-    &:hover{
     
-    background-color:#5b9bd5 ;
-  color: white;
-  box-shadow: 0 0 5px rgba(130, 128, 130);
-  text-shadow: 0 0 5px rgba(130, 128, 130);
-}
     
     
 }
@@ -100,6 +94,13 @@
   
   
 } 
+}
+.services:hover{
+    
+    background-color:#5b9bd5 ;
+  color: white;
+  box-shadow: 0 0 5px rgb(130, 128, 130);
+  text-shadow: 0 0 5px rgb(130, 128, 130);
 }
 
 
