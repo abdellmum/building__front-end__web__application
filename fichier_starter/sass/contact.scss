@@ -103,7 +103,11 @@
     transform: translateX(-50%);
     margin-top: 2rem;
     color: white;
+    &:hover{
+        color: $color-bleu;
+        background-color: #9cb4c7;
+    }
 }
 .titre{
-    padding-left: 14em;
+    padding-left: 13em;
 }

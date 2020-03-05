@@ -258,9 +258,12 @@ a:visited {
   transform: translateX(-50%);
   margin-top: 2rem;
   color: white; }
+  .btn:hover {
+    color: #5b9bd5;
+    background-color: #9cb4c7; }
 
 .titre {
-  padding-left: 14em; }
+  padding-left: 13em; }
 
 * {
   margin: 0;
@@ -352,9 +355,12 @@ a:visited {
   transform: translateX(-50%);
   margin-top: 2rem;
   color: white; }
+  .btn:hover {
+    color: #5b9bd5;
+    background-color: #9cb4c7; }
 
 .titre {
-  padding-left: 14em; }
+  padding-left: 13em; }
 
 .footers {
   background-color: #828082; }
