@@ -1,17 +1,20 @@
 .features {
   width: 100%;
-  height: 26rem;
-  background-color: #9ea2a5;
-  background-color: wheat;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  grid-column-gap: 15px;
-  grid-row-gap: 15px;
-  animation: shake 3s;
+  height: 25rem;
   text-align: center;
   letter-spacing: 0.5px;
-  background-color: rgba(0, 0, 0, 0.2); }
+  background-color: rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  /* type writing */ }
+  .features__services {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    animation: typing 1.5s steps(30, end), blink-caret 0.2s step-end infinite; }
   .features__services1 {
     grid-area: 1 / 1 / 2 / 2;
     text-align: center; }
@@ -25,10 +28,31 @@
     grid-area: 2 / 2 / 3 / 3; }
   .features__services6 {
     grid-area: 2 / 3 / 3 / 4; }
+  .features .features:hover {
+    background-color: #5b9bd5;
+    color: white;
+    box-shadow: 0 0 5px #828082;
+    text-shadow: 0 0 5px #828082; }
+  .features .features h1 {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 1.5s steps(30, end), blink-caret 0.2s step-end infinite; }
+  .features .features h {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 3.5s steps(30, end), blink-caret 0.1s step-end infinite; }
 
-.features:hover {
-  background-color: #5b9bd5;
-  color: white; }
+@keyframes typing {
+  from {
+    width: 20; }
+  to {
+    width: 70%; } }
+
+@keyframes blink-caret {
+  from {
+    width: 20; }
+  to {
+    width: 70%; } }
 
 .gallerie img {
   width: 99%;
