@@ -4497,6 +4497,11 @@ readers do not read off random characters that represent icons */
 .gallerie img {
   width: 99%;
   height: 98%; }
+  .gallerie img:hover {
+    background: linear-gradient(130deg, blue 0%, lightblue 100%);
+    box-shadow: none;
+    transform: scale(0.9);
+    position: relative; }
 
 .gallerie {
   display: grid;
