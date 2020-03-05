@@ -3,6 +3,15 @@
   
     width: 99%;
     height: 98%;
+    
+    &:hover{
+     
+      background: linear-gradient(130deg, blue 0%, lightblue 100%);
+      box-shadow: none;
+      transform: scale(.9);
+      position: relative;
+    }
+
   }
 }
 
