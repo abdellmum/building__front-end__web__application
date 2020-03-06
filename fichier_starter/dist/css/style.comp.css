@@ -6,7 +6,8 @@
   text-align: center;
   letter-spacing: 0.5px;
   background-color: rgba(0, 0, 0, 0.2);
-  /* type writing */ }
+  align-items: stretch;
+  align-content: stretch; }
   .features__services {
     width: 100%;
     height: auto;
@@ -28,37 +29,6 @@
     grid-area: 2 / 2 / 3 / 3; }
   .features__services6 {
     grid-area: 2 / 3 / 3 / 4; }
-  .features .features:hover {
-    background-color: #5b9bd5;
-    color: white;
-    box-shadow: 0 0 5px #828082;
-    text-shadow: 0 0 5px #828082; }
-  .features .features h1 {
-    overflow: hidden;
-    white-space: nowrap;
-    animation: typing 1.5s steps(30, end), blink-caret 0.2s step-end infinite; }
-  .features .features h {
-    overflow: hidden;
-    white-space: nowrap;
-    animation: typing 3.5s steps(30, end), blink-caret 0.1s step-end infinite; }
-
-@keyframes typing {
-  from {
-    width: 20; }
-  to {
-    width: 70%; } }
-
-@keyframes blink-caret {
-  from {
-    width: 20; }
-  to {
-    width: 70%; } }
-
-.services:hover {
-  background-color: #5b9bd5;
-  color: white;
-  box-shadow: 0 0 5px #828082;
-  text-shadow: 0 0 5px #828082; }
 
 .gallerie img {
   width: 99%;
@@ -206,8 +176,12 @@
       width: 14em;
       height: 10em; }
 
-body {
-  font-family: sans-serif; }
+html body {
+  width: 100%;
+  height: auto;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0; }
 
 .modal {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/fichier_starter/dist/img/story-2.jpeg");
@@ -271,8 +245,12 @@ body {
   .titre {
     font-size: 1.5em; } }
 
-body {
-  font-family: sans-serif; }
+html body {
+  width: 100%;
+  height: auto;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0; }
 
 .modal {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/fichier_starter/dist/img/story-2.jpeg");
