@@ -8,34 +8,46 @@
     background-color: rgba(0, 0, 0, 0.2);
     align-items: stretch;
     align-content: stretch;
+
+    & h1{
+        
+        font-family: sans-serif;
+        font-weight: bolder;
+         padding: 3rem;
+    }
       
 
 
 
-&__services{
+.features__services{
+    background-color: green;
      width: 100%;
     height: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    grid-column-gap: 15px;
-    grid-row-gap: 15px;
+   grid-gap: calc(4rem + 2%);
     
 }
-&__services1 {
+.features__services__services1 {
     grid-area: 1 / 1 / 2 / 2;
     text-align: center;
+    padding:3em 0em;
     
     
     
 }
 
-&__services2 {
+.features__services__services2 {
+    text-align: center;
+    padding:3em 0em;
     grid-area: 1 / 2 / 2 / 3;
     
 }
 
 &__services3 {
+    text-align: center;
+    padding:3em 0em;
     grid-area: 1 / 3 / 2 / 4;
    
 }
