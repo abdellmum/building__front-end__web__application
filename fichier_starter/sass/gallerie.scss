@@ -44,7 +44,27 @@
   text-align: center;
 }
 
+@media only screen and (max-width: 800px){
+  .gallerie{
 
+    display: flex;
+    width: 786%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+    animation: moveSlideshow 12s linear infinite;
+
+    @keyframes moveSlideshow {
+      100% { 
+        transform: translateX(-66.6666%)
+
+      }
+    
+    
+  }
+}
+}
  
       
         
