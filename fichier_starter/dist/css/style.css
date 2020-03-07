@@ -104,7 +104,7 @@ body {
 
 .home {
   background-image: url(/dist/img/back.jpg);
-  background-size: cover;
+  object-fit: cover;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(3, 1fr);
@@ -160,12 +160,15 @@ body {
     .home__title--logos h4.no-span:after {
       left: 0; }
     .home__title--logos img {
-      width: 10em;
-      height: 3em;
-      padding: 2em; }
+      width: 12em;
+      height: 5em;
+      padding: 1em; }
+    .home__title--logos div {
+      text-align: center;
+      padding-top: 2em; }
   .home__agents {
     grid-area: 1 / 5 / 4 / 6;
-    background-color: #828082; }
+    background-color: rgba(209, 207, 207, 0.9); }
     .home__agents h2 {
       text-align: center;
       margin-bottom: .5em;
@@ -196,7 +199,7 @@ body {
       .home__title p {
         font-size: 1.75em; }
     .home__title--logos div {
-      margin-left: 4em; }
+      margin-left: 1em; }
     .home__agents--realtors img {
       width: 17em;
       height: 14em; } }
