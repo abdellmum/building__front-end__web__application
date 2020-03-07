@@ -4566,7 +4566,8 @@ readers do not read off random characters that represent icons */
   justify-items: center;
   grid-area: 1 / 2 / 2 / 4; }
   .logo img {
-    width: 50%; }
+    width: 50%;
+    padding-top: 1em; }
 
 .home {
   background-image: url(/dist/img/back.jpg);
@@ -4648,6 +4649,24 @@ readers do not read off random characters that represent icons */
     .home__agents--realtors img {
       width: 14em;
       height: 10em; }
+
+@media only screen and (max-width: 800px) {
+  .home {
+    display: block;
+    clear: both; }
+    .home__title {
+      text-align: center;
+      padding-top: 4em;
+      margin: 2em; }
+      .home__title h1 {
+        font-size: 2.5em; }
+      .home__title p {
+        font-size: 1.75em; }
+    .home__title--logos div {
+      margin-left: 4em; }
+    .home__agents--realtors img {
+      width: 17em;
+      height: 14em; } }
 
 html body {
   width: 100%;
