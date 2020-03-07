@@ -28,6 +28,7 @@ $color-bk:rgb(130, 128, 130);
     
     img{
         width: 50%;
+        padding-top: 1em;
         
     }
 }
@@ -35,7 +36,8 @@ $color-bk:rgb(130, 128, 130);
 .home {
     
     background-image: url(/dist/img/back.jpg);
-    background-size: cover;
+    // background-size: cover;
+    object-fit: cover;
     
     
     
@@ -103,15 +105,19 @@ $color-bk:rgb(130, 128, 130);
             left: 0;
           }
         img{
-            width: 10em;
-            height: 3em;
-            padding: 2em;
+            width: 12em;
+            height: 5em;
+            padding: 1em;
+        }
+        div{
+            text-align: center;
+            padding-top: 2em;
         }
 
     }
     &__agents{
         grid-area: 1 / 5 / 4 / 6;
-        background-color: $color-gr2;
+    background-color: rgba(209, 207, 207, 0.9);
         h2{
             text-align: center;
             margin-bottom: .5em;
@@ -141,4 +147,53 @@ $color-bk:rgb(130, 128, 130);
 
     
     }
+
+    @media only screen and (max-width: 800px) {
+
+        .home{
+        display: block;
+        clear: both;
+
+        &__title{  
+            text-align: center;
+
+            padding-top: 4em;
+            margin: 2em;
+            // margin-left: 7em;
+            // line-height: 2em;
+
+
+       
+        h1{
+            font-size: 2.5em;
+            // position: relative;
+            // bottom: 1em;
+          
+
+        }
+        p{
+            font-size: 1.75em;
+            // color: #000000;
+            // position: relative;
+            // bottom: .5em;
+          
+        }
+        
+
+        }
+
+        &__title--logos{
+             div{
+                margin-left: 1em;
+             }
+
+            
+        }
+        &__agents--realtors img {
+            width: 17em;
+            height: 14em;
+        }
+    }
+        
+      }
    

@@ -1,8 +1,13 @@
 
 
-   body{
+ html body{
+       width: 100%;
+       height: auto;
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
    }
+
  
    
  .modal{
@@ -18,7 +23,7 @@
  
  
    .modal__close{
-    color: #363636;
+    color:#363636;
     font-size: 2em;
     position: absolute;
     top: .5em;
@@ -54,7 +59,7 @@
     
     background-color: $color-bleu;
     border: none;
-    width: 14%;
+    width: 12em;
     padding: 1em 0em;
     font-weight: bold;
     border-radius: 16px;
