@@ -4856,10 +4856,15 @@ html body {
     margin-left: 50em;
     margin-bottom: 12em;
     }*/
+.logo2 img {
+  width: 50%;
+  height: 50%; }
+
 .footers__email {
   display: flex;
   flex-direction: row;
-  margin-left: 20em; }
+  margin-left: 20em;
+  margin: 1em; }
   .footers__email input {
     width: 20em;
     height: 2.7em; }
