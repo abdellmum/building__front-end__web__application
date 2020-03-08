@@ -360,7 +360,8 @@ html body {
     font-size: 1.5em; } }
 
 .footers {
-  background-color: rgba(0, 0, 0, 0.2); }
+  background-image: url(/dist/img/footerbck.jpg);
+  background-size: 100% 100%; }
   .footers__col2 {
     color: black;
     text-decoration: none;
