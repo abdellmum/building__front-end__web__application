@@ -11,6 +11,10 @@ background-color: rgba(0, 0, 0, 0.2);
     text-align: center;
 
 }
+&__copy{
+    display: flex;
+    flex-direction: row;
+}
 }
 .footers__col2 li {
   
@@ -32,13 +36,14 @@ background-color: rgba(0, 0, 0, 0.2);
   
 
         }
-
+ 
     
 
 .footer__copyright{
 
- padding-top: 9%;
- margin-left: 4%;
+    width: 30em;
+    padding-top: 5%;
+    margin-left: 7%
 
  }
  
@@ -53,7 +58,12 @@ background-color: rgba(0, 0, 0, 0.2);
     margin-bottom: 12em;
     }*/
     
- 
+ .logo2{
+     img{  
+     width: 50%;
+     height: 50%;
+       }
+ }
  
 
  .footers__email {
@@ -63,17 +73,17 @@ background-color: rgba(0, 0, 0, 0.2);
 
 	display: flex;
 	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: flex-end;
-	align-items: flex-end;
-	align-content: stretch;
+    margin-left: 20em;
+    margin: 1em;
       
       
        
         
     
-    &__input{
+    input{
        
+        width:  20em;
+        height: 2.7em;
 
       
        
@@ -81,11 +91,24 @@ background-color: rgba(0, 0, 0, 0.2);
        
      
 
-        width:80px;
+        
         
     }
 
-    &__btn{
+    .submit{ background-color: $color-bleu;
+        border: none;
+        width: 8em;
+        padding: 0.8em 0em;
+        font-weight: bold;
+        border-radius: 10px;
+        left: 4.5em;
+        position: relative;
+        transform: translateX(-50%);
+        margin-top: 2rem;
+        color: white;
+        cursor: pointer;
+        position: relative;
+        bottom: 2.5em;
         
      
       
