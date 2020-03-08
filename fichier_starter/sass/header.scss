@@ -35,7 +35,8 @@ $color-bk:rgb(130, 128, 130);
 
 .home {
     
-    background-image: url(/dist/img/bckg.jpg) no-repeat center center-fixed;
+    background-image: url(/dist/img/bckg.jpg);
+    background-repeat: no-repeat;
    
    background-size: 63.125rem 42.5rem;
     
@@ -46,9 +47,12 @@ $color-bk:rgb(130, 128, 130);
     grid-template-rows: repeat(3, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 15px;
+         animation-duration: 2s;
+  animation-name: slidein;
     &__title{
         grid-area: 2 / 1 / 3 / 5;
         margin-left: 10em;
+   
        
         
         
@@ -204,4 +208,25 @@ $color-bk:rgb(130, 128, 130);
     }
         
       }
+    // animation for header
+
+ 
+
+@keyframes slidein {
+  from {
+    margin-left: 0%;
+    width: 300%;
+  }
+  75% {
+      background-color: $color-bleu;
+    font-size: 100%;
+    margin-left: 0%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
    
