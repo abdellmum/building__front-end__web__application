@@ -89,7 +89,7 @@ $color-bk:rgb(130, 128, 130);
           }
           h4.no-span:before,
           h4.no-span:after {
-            border-top: 0.08em  solid black;
+            border-top: 0.08em  solid white;
             
             content: '';
             display: table-cell;
@@ -145,6 +145,12 @@ $color-bk:rgb(130, 128, 130);
 
 
     
+    }
+    @media screen and (max-width: 1024px){
+        .home{
+            background-size:  63.125rem 60rem ;
+            object-fit: cover;
+        }
     }
 
     @media only screen and (max-width: 800px) {
