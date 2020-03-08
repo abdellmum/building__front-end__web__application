@@ -4604,10 +4604,9 @@ body {
     padding-top: 1em; }
 
 .home {
-  background-image: url(/dist/img/unnamed2.jpg);
+  background-image: url(/dist/img/bckg.jpg);
   background-repeat: no-repeat;
-  -o-object-fit: cover;
-     object-fit: cover;
+  background-size: 63.125rem 42.5rem;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(3, 1fr);
@@ -5231,7 +5230,7 @@ a {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background-color: #111;
+  background-color: #E9E9E9;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
