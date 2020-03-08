@@ -35,8 +35,8 @@ $color-bk:rgb(130, 128, 130);
 
 .home {
     
-    background-image: url(/dist/img/bckg.jpg);
-    background-repeat: no-repeat;
+    background-image: url(/dist/img/bckg.jpg) no-repeat center center-fixed;
+   
    background-size: 63.125rem 42.5rem;
     
     
