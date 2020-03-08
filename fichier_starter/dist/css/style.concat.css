@@ -4627,7 +4627,7 @@ body {
       white-space: nowrap; }
     .home__title--logos h4.no-span:before,
     .home__title--logos h4.no-span:after {
-      border-top: 0.08em  solid black;
+      border-top: 0.08em  solid white;
       content: '';
       display: table-cell;
       position: relative;
@@ -4659,6 +4659,11 @@ body {
     .home__agents--realtors img {
       width: 14em;
       height: 10em; }
+
+@media screen and (max-width: 1024px) {
+  .home {
+    background-size: 63.125rem 60rem;
+    object-fit: cover; } }
 
 @media only screen and (max-width: 800px) {
   .home {
