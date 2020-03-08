@@ -37,12 +37,10 @@ $color-bk:rgb(130, 128, 130);
     
     background-image: url(/dist/img/unnamed2.jpg);
     background-repeat: no-repeat;
-    // background-size: cover;
     object-fit: cover;
     
     
     
-    // background-repeat: no-repeat;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(3, 1fr);
@@ -56,13 +54,13 @@ $color-bk:rgb(130, 128, 130);
         
         h1{
             font-size: 3em;
-            color: #000000;
+            color: #ffffff;
           
 
         }
         p{
             font-size: 2em;
-            color: #000000;
+            color: #ffffff;
         }
 
     }
@@ -122,14 +120,14 @@ $color-bk:rgb(130, 128, 130);
         h2{
             text-align: center;
             margin-bottom: .5em;
-            color: white;
+            
         }
         h3{
             text-align: center;
-            color:white;
+          
         }
         p{
-            color:white ;
+            
             
         }
     }
@@ -187,6 +185,9 @@ $color-bk:rgb(130, 128, 130);
              div{
                 margin-left: 1em;
              }
+             h4.no-span{
+                font-size: 1.5em;
+           }
 
             
         }
