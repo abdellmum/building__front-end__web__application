@@ -4593,10 +4593,10 @@ body {
     margin-left: 10em; }
     .home__title h1 {
       font-size: 3em;
-      color: #000000; }
+      color: #ffffff; }
     .home__title p {
       font-size: 2em;
-      color: #000000; }
+      color: #ffffff; }
   .home__title--btn {
     background-color: #5b9bd5;
     border: none;
@@ -4649,13 +4649,9 @@ body {
     background-color: rgba(209, 207, 207, 0.9); }
     .home__agents h2 {
       text-align: center;
-      margin-bottom: .5em;
-      color: white; }
+      margin-bottom: .5em; }
     .home__agents h3 {
-      text-align: center;
-      color: white; }
-    .home__agents p {
-      color: white; }
+      text-align: center; }
   .home__agents--realtors {
     display: grid;
     justify-content: center;
@@ -4678,6 +4674,8 @@ body {
         font-size: 1.75em; }
     .home__title--logos div {
       margin-left: 1em; }
+    .home__title--logos h4.no-span {
+      font-size: 1.5em; }
     .home__agents--realtors img {
       width: 17em;
       height: 14em; } }
