@@ -4693,7 +4693,6 @@ body {
     margin-left: 0%;
     width: 300%; }
   75% {
-    background-color: #5b9bd5;
     font-size: 100%;
     margin-left: 0%;
     width: 100%; }
@@ -4855,8 +4854,6 @@ html body {
   background: rgba(0, 0, 0, 0.9);
   transition: opacity .25s ease;
   z-index: 2; }
-  .modal h1 {
-    color: #5b9bd5; }
   .modal__bg {
     position: absolute;
     top: 0;
@@ -4889,6 +4886,10 @@ html body {
     float: left;
     margin-left: 16em;
     margin-top: -17em; }
+    .modal__titles h2 {
+      color: #5b9bd5; }
+    .modal__titles h4 {
+      color: #5b9bd5; }
   .modal__image img {
     width: 31%;
     margin-left: -2em;
