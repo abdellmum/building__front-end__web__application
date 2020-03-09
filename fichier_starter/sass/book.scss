@@ -12,9 +12,7 @@
    transition: opacity .25s ease;
    z-index: 2;
 
-   h1{
-     color: #5b9bd5 ;
-   }
+  
    &__bg {
      position: absolute;
      top: 0;
@@ -55,6 +53,12 @@
    float: left;
    margin-left: 16em;
    margin-top: -17em;
+   h2{
+     color:#5b9bd5 ;
+   }
+   h4{
+     color: #5b9bd5;
+   }
     
   }
 
@@ -144,31 +148,32 @@
     text-decoration: none;
   }
   @media only screen and (max-width: 1000px) {
-    .modal__image img {
-      margin-left: -2em;
-      margin-bottom: 1em;
-      width: 100%;
-      height: auto;
-    }
-    .modal__titles{
-      margin-left: 6em;
-      margin-top: 2em;
-    }
-    .modal__paraghraph {
-      position: relative;
-      top: 24em;
-      right: 12em;
-      margin-top: -16em;
-      width: 88%;
-    }  
-    .modal .btn-2{
-      position: relative;
-      left: -17em;
-      top: 21em;
-      margin-bottom: 1em;
-      margin-top: 5em;
-    }
-    .btn {
-      bottom: -3em;
-    }
-    }
+  .modal__image img {
+    margin-left: -2em;
+    margin-bottom: 1em;
+    width: 100%;
+    height: auto;
+  }
+  .modal__titles{
+    margin-left: 6em;
+    margin-top: 2em;
+  }
+  .modal__paraghraph {
+    position: relative;
+    top: 24em;
+    right: 12em;
+    margin-top: -16em;
+    width: 88%;
+  }  
+  .modal .btn-2{
+    position: relative;
+    left: -17em;
+    top: 21em;
+    margin-bottom: 1em;
+    margin-top: 5em;
+  }
+  .btn {
+    bottom: -3em;
+  }
+ 
+  }
