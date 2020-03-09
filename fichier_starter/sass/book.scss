@@ -11,6 +11,10 @@
    background: rgba(0,0,0, .9);
    transition: opacity .25s ease;
    z-index: 2;
+
+   h1{
+     color: #5b9bd5 ;
+   }
    &__bg {
      position: absolute;
      top: 0;
@@ -139,3 +143,32 @@
   a{
     text-decoration: none;
   }
+  @media only screen and (max-width: 1000px) {
+    .modal__image img {
+      margin-left: -2em;
+      margin-bottom: 1em;
+      width: 100%;
+      height: auto;
+    }
+    .modal__titles{
+      margin-left: 6em;
+      margin-top: 2em;
+    }
+    .modal__paraghraph {
+      position: relative;
+      top: 24em;
+      right: 12em;
+      margin-top: -16em;
+      width: 88%;
+    }  
+    .modal .btn-2{
+      position: relative;
+      left: -17em;
+      top: 21em;
+      margin-bottom: 1em;
+      margin-top: 5em;
+    }
+    .btn {
+      bottom: -3em;
+    }
+    }
