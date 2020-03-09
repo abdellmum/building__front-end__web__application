@@ -5258,8 +5258,6 @@ a {
       transform: translate(1%, -50%);
       height: 3em;
       width: 9em; }
-    .maison__cards--card .fas {
-      margin-right: 1em; }
     .maison__cards--card button {
       background-color: #5b9bd5;
       border: none;
@@ -5271,7 +5269,7 @@ a {
       position: relative;
       transform: translateX(-50%);
       margin-top: 2rem;
-      color: white;
+      color: #f0eaea;
       cursor: pointer; }
 
 @media only screen and (max-width: 800px) {
