@@ -5266,7 +5266,7 @@ a {
       position: relative;
       transform: translateX(-50%);
       margin-top: 2rem;
-      color: white;
+      color: #f0eaea;
       cursor: pointer; }
 
 @media only screen and (max-width: 800px) {

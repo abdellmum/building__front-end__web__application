@@ -48,9 +48,7 @@
          
 
         }
-        .fas{
-            margin-right: 1em;
-          }
+       
         button {
      background-color: $color-bleu;
     border: none;
@@ -62,7 +60,7 @@
     position: relative;
     transform: translateX(-50%);
     margin-top: 2rem;
-    color: white;
+    color: rgb(240, 234, 234);
     cursor: pointer;
 }
 
