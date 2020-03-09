@@ -1,5 +1,5 @@
 .footers{
-background-color: rgba(0, 0, 0, 0.2);
+background-image: url(/fichier_starter/dist/img/f);
    
     
     
@@ -50,20 +50,14 @@ background-color: rgba(0, 0, 0, 0.2);
  }
  
  
- /*.footers__email
- {
-   
-    display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-    margin-left: 50em;
-    margin-bottom: 12em;
-    }*/
+
     
  .logo2{
      img{  
      width: 50%;
      height: 50%;
+         margin-bottom: 3rem;
+    margin-left: 3rem;
        }
  }
  
