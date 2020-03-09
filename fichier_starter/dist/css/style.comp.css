@@ -775,6 +775,9 @@ a {
     transform: translateX(-50%);
     border-radius: 10px;
     margin-top: 1em; }
+    .maison__cards--card:hover {
+      cursor: pointer;
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6); }
     .maison__cards--card img {
       width: 100%;
       border-top-right-radius: 0.68em;
