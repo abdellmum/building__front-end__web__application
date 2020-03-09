@@ -1,5 +1,10 @@
 .maison {
  
+  &__title{
+    text-align: center;
+       font-family: sans-serif;
+        font-weight: bolder;
+  }
     &__cards {
         display: grid;
         grid-template-columns: repeat(3,33.33%);
