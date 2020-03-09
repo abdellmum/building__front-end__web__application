@@ -5,6 +5,7 @@ background-color: rgba(0, 0, 0, 0.2);
     
 
  &__col2{
+    
     color: black;
     text-decoration: none;
     padding-top: 2em;
@@ -14,11 +15,12 @@ background-color: rgba(0, 0, 0, 0.2);
 &__copy{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 }
 .footers__col2 li {
-  
-    display: inline;
+
+    display: inline;   
     color: black;
     font-size: 1em;
     text-decoration: none;
@@ -43,7 +45,7 @@ background-color: rgba(0, 0, 0, 0.2);
 
     width: 30em;
     padding-top: 5%;
-    margin-left: 7%
+    margin-left: 3%;
 
  }
  
@@ -115,7 +117,19 @@ background-color: rgba(0, 0, 0, 0.2);
 
     }
  }
+ @media only screen and (max-width: 900px){
 
+   .footers{
+       &__copy{
+         display: flex;
+         flex-direction: column;
+        
+       }
+      
+   }
+
+
+ }
 
 
 
