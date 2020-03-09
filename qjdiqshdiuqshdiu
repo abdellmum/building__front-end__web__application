@@ -1,0 +1,852 @@
+[33mcommit 595df77a2076c2771aacda50156dde5f81de79d3[m[33m ([m[1;36mHEAD -> [m[1;32mhtml--sass[m[33m, [m[1;31morigin/html--sass[m[33m)[m
+Merge: 0036aee e6f8858
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 09:42:54 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 0036aeec3ec454098575c818674e3e94ceda473b[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 09:42:08 2020 +0100
+
+    update
+
+[33mcommit e6f8858e71501f7c5c454eb2c5b0b7f42dffe300[m
+Merge: f7fc9ca ae537d8
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:20:20 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit f7fc9caa243422cd06d0a4553d65fea1e4a8af26[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:19:40 2020 +0100
+
+    Update _maison.scss
+
+[33mcommit 79e107d105097b688de81affecd314886bdb78e0[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:19:34 2020 +0100
+
+    Update index.html
+
+[33mcommit ed8ab374baecaad4ab04d038df636a69ef0f02ca[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:19:29 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 782ac3bc7f37fa663c2bf38b686ef8373b884c81[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:19:25 2020 +0100
+
+    Update style.css
+
+[33mcommit 28e4f5ce65cf7befb4e8d27478f0184ff2364db6[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:19:19 2020 +0100
+
+    update animation
+
+[33mcommit e1db6f5c1ffee1c8f02fb5641dd7b05dcbfad8d1[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Mon Mar 9 09:19:06 2020 +0100
+
+    add aniamtion header
+
+[33mcommit ae537d8048f3414f7dba3b2bb4c4f6d8c93ee763[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:22:35 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit b70297bcc80470e7913cd0da460c03e8a5086176[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:22:31 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit b3171d86c8ad912c17f883f6723b4d467abedba9[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:22:27 2020 +0100
+
+    Update style.css
+
+[33mcommit ca94a184441061b0fa20c33e4453b9bae1771b73[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:22:24 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit bc1d4ea8ca352e3ec2c3929e27581b50b6dfbf3c[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:22:18 2020 +0100
+
+    ajouter hover
+
+[33mcommit 5ce11fc58e299071ec99cbfb8c2252389bfa4f1b[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:47 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 314bcba65bf38b2bc6ab33ec13a2e1ec778639f6[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:43 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit c1761bffc991bf924e4e3d43afe54c202a9b562a[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:39 2020 +0100
+
+    Update style.css
+
+[33mcommit ccf29dc008f971208e3b77dc3d356dd44a89dc7d[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:34 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit c75ec776fc9b5a50c97bfe6f544fd58b89432502[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:30 2020 +0100
+
+    Update index.html
+
+[33mcommit f775c98cc4281f527a741b05d688d8e3648e51e4[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:26 2020 +0100
+
+    Update book.scss
+
+[33mcommit 7ce3b0f9900282db014aebd838401f337d9bc480[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 04:07:22 2020 +0100
+
+    Update header.scss
+
+[33mcommit 7e3f719af2dca87fa22898d2371ad9a34e15d7f0[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:25:18 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 91496a5e008322ba8bf2994334ec241d85f81739[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:25:14 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 538ec3a2eeaf98823d0836dbeae71891ef6eb98b[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:25:10 2020 +0100
+
+    Update style.css
+
+[33mcommit 2b4c804da29c27791ddbba0fe1a21c7b6bc9b466[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:25:06 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 3e0f3acc4004d846a2e3bdc706f8d590ce7702d5[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:25:03 2020 +0100
+
+    Update _story.scss
+
+[33mcommit d07ae36b3bd27047d4861dce1dcffa2f0060db3a[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:24:58 2020 +0100
+
+    Update book.scss
+
+[33mcommit 3d6a39d59263fe47d3782f31a3fa4d3b714d5b71[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:24:54 2020 +0100
+
+    Update contact.scss
+
+[33mcommit 8550bf2ff15e53b15d61744aff24701111dbef42[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:24:50 2020 +0100
+
+    Update features.scss
+
+[33mcommit d22e7420d50de4812500f6be3193146baf23dcfb[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:24:45 2020 +0100
+
+    Update footer.scss
+
+[33mcommit 0f8f32e01ecc420d2594590834d253545584c0dd[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:24:38 2020 +0100
+
+    modifier scss gallerie
+
+[33mcommit 72e6563c10d2f53f8b7ba1d4e5a5493706f943b7[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:23:48 2020 +0100
+
+    modifier html ( maison)
+
+[33mcommit 2589e5c5d961b231296c034a98784452f2f6eb8f[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Mon Mar 9 03:22:48 2020 +0100
+
+    modifier html contact
+
+[33mcommit 022f3129cd3ab09f3e8d6e103c930ea89bf2bec3[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 19:46:06 2020 +0100
+
+    Update header.scss
+
+[33mcommit a8e6106d714c8344710357740e9714d201863a78[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 19:46:02 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 6311765abcf314a219d031727c6b3adbe6983410[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 19:45:57 2020 +0100
+
+    Update style.css
+
+[33mcommit e72a4073a70321ce366e79b1d11a6969f9648d39[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 19:45:51 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit f2a126ffa2b6ea7cd2cd791c69727993a2a1c821[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 19:45:47 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit f23f273b148ceffa6f26b63728b9e3b468031165[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 19:10:55 2020 +0100
+
+    update
+    
+    updat
+
+[33mcommit 12d56cdafd1e40ba9019f698f0bbf8026b734c73[m
+Merge: 7b23517 c2defdd
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 18:55:47 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 7b23517e7cb2bd83e2dbba41af7ae968fb264800[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 18:42:13 2020 +0100
+
+    Update features.scss
+
+[33mcommit 1acee66ad7c6ac12029190dbc8d795e41ff1dece[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 18:42:09 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit baf98b2d52069de90f2460cb037c710f6b3c2030[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 18:42:05 2020 +0100
+
+    Update style.css
+
+[33mcommit 7f5ef066bdd1498abe7e7d5098959989b171dabb[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 18:42:01 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 0ec4a8573cff9822e9c01f81369344f4e9d65063[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 18:41:54 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit c2defdd63d68433428237829c14304b8cb6452d7[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:27:38 2020 +0100
+
+    update
+    
+    up
+
+[33mcommit 9e0bd3b3271a94a3c16882f2899dc64e02a5d4a7[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:19:53 2020 +0100
+
+    respensive header
+
+[33mcommit 34fd5a9f5ea86d8a2665f0c57dff4b0dbd347782[m
+Merge: 591d20a 088ac9c
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:19:20 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 591d20a4fd067b3bd4aefc1c4f2008719531c9c9[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:14:27 2020 +0100
+
+    Update style.css
+
+[33mcommit 2dc27fc0c33464199ada8ce83b52cde7bf4765dd[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:14:19 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 2486d47607599d006d3142b08fc9fa0bc8a873c1[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:14:13 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 30a8ce001d4fa7be7995538a0171bf093ed35239[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 18:14:09 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 088ac9c5c5a491262aa76e764bd8efe398135a77[m
+Merge: 8b5011e 9037cb1
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:41:47 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 8b5011e79a90baabbe98efa44f93820a05a44143[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:41:01 2020 +0100
+
+    Create footerbck.jpg
+
+[33mcommit 39b9f7cdfa9878ea6213506437e45f418438dac1[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:40:57 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit b0cf7faccbadb179219980911c182046384db5dd[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:40:53 2020 +0100
+
+    Update style.css
+
+[33mcommit e4d8f4819605dde434b67b49bcafaa6ab45349dc[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:40:45 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 1a9c5282679358f0edb0b45c5838f73ccc68dde1[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:40:16 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 9037cb1675d27178eec5028f39c9c456bd9f1a39[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:36:42 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit c386041e68ab8a6836f9384db23d507ec12cbb90[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:36:38 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit c84023aa3194d81813d7798031614a64c1931571[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:36:34 2020 +0100
+
+    Update style.css
+
+[33mcommit dda4de9e0ea03f6f141a4158cff0962233f1362c[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:36:30 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit e04876a316d409dec6e1fd16527754fa003257d6[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:36:26 2020 +0100
+
+    ajouter scss footer
+
+[33mcommit 0400ee79c1a90c227e07c0c7c414fe13085c46c3[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:35:48 2020 +0100
+
+    modification index footer
+
+[33mcommit 69e8805bc856d497f4faf8e9b111661254b7a5b6[m
+Merge: b7eff41 91afb69
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:16:56 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit b7eff416f349c24cdd6dfb6351fc53770488fd6a[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:16:27 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 27d6dfbfd4abe4d67a986cb9c88dc0114d51d7c1[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:16:21 2020 +0100
+
+    Update style.css
+
+[33mcommit a2205890bf38025a7258ecedc68a1482a800a5d9[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:16:16 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 80ef460ec311cba59f215f6a6d3f3ca596255986[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 17:16:11 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 91afb699869add3f789992b3ca23e98cc9690e85[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:05:57 2020 +0100
+
+    update header
+    
+    test img header background
+
+[33mcommit 375f220587284f460acdaf5e6e6adcd72d905e5d[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:05:33 2020 +0100
+
+    website logo
+    
+    creat ower personal logo with phtoshop
+    added the logo to header and footer
+    autoeised by othmane and chaymae
+    and product owner
+
+[33mcommit f8e288959c7d7090d2375e2b0080522d71b97f0d[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:04:01 2020 +0100
+
+    img test
+
+[33mcommit 42e5b24be91fa08c6354888cfe5e0dccb3e414e2[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:03:33 2020 +0100
+
+    style.css
+    
+    header background img update
+    final change
+    autorised by oyhmane (section owner)
+
+[33mcommit 2c5f21c9cbcafb0f86bcfff1d4402449374912ef[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:02:15 2020 +0100
+
+    style.css
+    
+    header another img test
+
+[33mcommit a83f24c5e41cb11723153ccfc6ab8eee7fead8c7[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:01:54 2020 +0100
+
+    header
+    
+    background another test
+
+[33mcommit c013a76ef15ec39c0e63d6644770639fb70ed159[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:01:36 2020 +0100
+
+    update styleprefixe
+
+[33mcommit a1c2efc5834a4a05c7424d77bd56b71763806503[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:01:20 2020 +0100
+
+    update style.css
+    
+    background img
+    background size
+    resposive header
+
+[33mcommit 30626f291f38b473f64dfff3a1f5ac6e11b20f17[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:00:33 2020 +0100
+
+    update cocatination
+
+[33mcommit 6c3332a6ff3e620f0add3ea349cef5b5264abf64[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sun Mar 8 17:00:12 2020 +0100
+
+    stylecomp
+    
+    stylecomp.css update
+
+[33mcommit be07103b300bd6e43dd6b8d29f4dc979773c7df4[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 13:07:09 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 0ee23122e114ed69ddf5c0641b703dd76a82a1e6[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 13:07:05 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit c07ad40c89cab01beef5100b942443117ef4f142[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 13:07:03 2020 +0100
+
+    Update style.css
+
+[33mcommit 59111b5c53b532a69c16ff186ebb94f7a33a8a66[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 13:06:59 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit cdb2f82fd575b0b45301d4b13a18376975dbc838[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 13:06:40 2020 +0100
+
+    modification des couleurs  (h1 h3 p)
+
+[33mcommit 80209009228e538c436119cfafd7972a9e6a0f12[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 09:51:08 2020 +0100
+
+    Update style.css
+
+[33mcommit 32d2288531e3fbfb5d5fe62dbbcc1b0102b0f553[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 09:51:04 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit a87be6bfbbf196aefc49b198036f925417716096[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 09:51:00 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 9b9674aa30890c17f4d08769deabe91c6eaefda1[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 09:50:55 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 2c0a07270a3122dcef6dce4b079fbb20b79381f0[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 09:50:17 2020 +0100
+
+    change background-image
+
+[33mcommit e80771c163ecaca024408817f49982b6f06471b0[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sun Mar 8 09:47:54 2020 +0100
+
+    ajoute image
+
+[33mcommit 31acabd93da85a7a7c52bad15f81096551849fef[m
+Merge: ca3d1b0 cc2ca7a
+Author: Salma Belassiri <salmabelassiri@gmail.com>
+Date:   Sat Mar 7 23:43:38 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit ca3d1b0f5045c048312517608396ec21661cdef9[m
+Author: Salma Belassiri <salmabelassiri@gmail.com>
+Date:   Sat Mar 7 23:43:03 2020 +0100
+
+    Ajouter responsive du gallerie
+
+[33mcommit cc2ca7ae81e264f822532641856a86aea7dbbb92[m
+Merge: 6d68061 6831fb5
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 23:00:37 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 6d680614b5602a20cdb41745b194089cbce2e79f[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 22:59:59 2020 +0100
+
+    upddate maison.scss
+
+[33mcommit 84dca737331050a21f82c9504f061a2aea490d73[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 22:59:35 2020 +0100
+
+    update index.html
+
+[33mcommit c93672d1b6286b5e1800d84bcd1232afa958ccc6[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 22:59:15 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit d3a17eed969fee94eca24688947c319d345c3713[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 22:59:08 2020 +0100
+
+    update styl.css
+
+[33mcommit 3e312600659158cce897bf728952ba7b381c4658[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 22:58:55 2020 +0100
+
+    concat.css changement
+
+[33mcommit 65a2c090ab8bf1eb39cea466e4b17e45b71fb650[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 22:58:40 2020 +0100
+
+    update comp.css
+
+[33mcommit 6831fb53ba9f41796314bac440e1f079d3bc96b1[m
+Merge: 760fd20 f336b94
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 22:01:54 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 760fd2093d72f4e47ac9e2751530c93d479b56a7[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 22:01:23 2020 +0100
+
+    update section features ( index.html and scss
+
+[33mcommit 86087c4499ee81a0e360541418d1a91a558f7826[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 22:00:57 2020 +0100
+
+    update story scss
+
+[33mcommit 7af3d6a33b390350a9f237f946b668e1c9db52e8[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 22:00:33 2020 +0100
+
+    update index.html
+
+[33mcommit 3e96bfa1dc8274a293d5383599319eff74efeea8[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 22:00:13 2020 +0100
+
+    update style.prefix.css
+
+[33mcommit 81f74fa3b83979ce372af64a4bdfe5172741c7bf[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 21:59:57 2020 +0100
+
+    update stylecss
+
+[33mcommit a316e43ab9f94e33cd44ba883a6bdf007975a548[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 21:59:41 2020 +0100
+
+    update style.concat.css
+
+[33mcommit 6034e5ef456156c21d454cc17e04cfe495f585bd[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 21:59:22 2020 +0100
+
+    update style.comp.css
+
+[33mcommit f336b943521c1cfadfbeea4a1612f22ab3651798[m
+Merge: f8963a9 9afebd9
+Author: Salma Belassiri <salmabelassiri@gmail.com>
+Date:   Sat Mar 7 21:28:01 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit f8963a9c6f6849b505f1487327e50079cfd8e6ab[m
+Author: Salma Belassiri <salmabelassiri@gmail.com>
+Date:   Sat Mar 7 21:27:55 2020 +0100
+
+       modification
+
+[33mcommit 9afebd9e4a8e3341da0081b40dfcc069625af522[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 17:56:57 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 2edd241c38169359d74b327687080fb6bae00a9c[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 17:56:52 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit abab691cb7c1f662c706e2f3c13d3f5dca44483a[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 17:56:48 2020 +0100
+
+    Update style.css
+
+[33mcommit 202d535433458e7ac33f27b9083a8f2774a32d66[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 17:56:42 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 39c12141cb6af44b2ab4f923049fb6cc08043399[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 17:56:30 2020 +0100
+
+    ajouter les modification header
+
+[33mcommit 6ed3d2fb9ce853378391361065827874695b19d8[m
+Merge: 1f8ed50 8f0a191
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 14:42:42 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 1f8ed506749c583d859de3c2e2f6a9efc942639f[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Sat Mar 7 14:41:48 2020 +0100
+
+    features section css update
+    
+    added background and grid-gap
+    and services childs
+
+[33mcommit 8f0a191992860b58fa1d6e536bb209f07a04a3da[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:36:58 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 3d1f746e0eb7b07acb7ac3558ab4936832aad51e[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:36:34 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 289c97fa95d8e3c94e2f7a24396b32785b0afcf8[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:36:28 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 9fd316d2680dd6c5efd76d7cbb3229a8372afc33[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:36:23 2020 +0100
+
+    Update style.css
+
+[33mcommit 63e626a66c653fe55629f2a7315e9b7009d0cb14[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:36:16 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 57c768d574d51613666f149337f2e9e178e7f356[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:36:08 2020 +0100
+
+    Update book.scss
+
+[33mcommit a4fb948348cd5c0c3ac0ff2d7ddfaecaed5ee80d[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:35:56 2020 +0100
+
+    modification section header html
+
+[33mcommit 8e5252c0156d1966786193c5ac233f82861f3ef5[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Sat Mar 7 14:35:16 2020 +0100
+
+     modification header
+    
+    ajouter media query
+
+[33mcommit e387754b7ad4bee46209f0a3a43fa33828408ac7[m
+Author: cheymae <58041410+chiamae@users.noreply.github.com>
+Date:   Fri Mar 6 23:19:32 2020 +0100
+
+    Ajoute section Maison
+
+[33mcommit 47ff9f7b48cccfa8787304a254e31c2c54ed6a6c[m
+Author: cheymae <58041410+chiamae@users.noreply.github.com>
+Date:   Fri Mar 6 21:42:04 2020 +0100
+
+    ajoute section maison
+
+[33mcommit a7b88d2436519388a12bf7136212f027098e7654[m
+Merge: 68e6410 3ba37c4
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Fri Mar 6 18:57:04 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
+
+[33mcommit 68e6410e8230ec002e1f3feb5e0bc62feafcf82e[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Fri Mar 6 18:54:43 2020 +0100
+
+    update
+
+[33mcommit 3ba37c49655cc823823e91678cbee7926768a4af[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:47:56 2020 +0100
+
+    ajouter scss book
+
+[33mcommit 39b26c3c60bb1c796637b695d1a06bec08481cb3[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:47:30 2020 +0100
+
+    Update style.prefix.css
+
+[33mcommit 94cc6978366e0c60ce1749dbac584be4d2d45ac6[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:47:26 2020 +0100
+
+    Update style.css
+
+[33mcommit c2ca969a5d88309be028e285567aa681fdb441eb[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:47:20 2020 +0100
+
+    Update style.concat.css
+
+[33mcommit 816627a346f10fbdbed26c18940472601db7c455[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:47:13 2020 +0100
+
+    Update style.comp.css
+
+[33mcommit 234e9f0cda7ee693a8aa890fe412995b9f015003[m
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:46:45 2020 +0100
+
+    ajouter l'index html
+
+[33mcommit 2ee18c3ab5dfa66ae4be046ba1417a9eae433ac5[m
+Merge: 3c423a5 4d24155
+Author: othmane-qr <othmane.qorqach@gmail.com>
+Date:   Fri Mar 6 18:35:06 2020 +0100
+
+    Merge branch 'html--sass' of https://github.com/abdellmum/building__front-end__web__application into html--sass
