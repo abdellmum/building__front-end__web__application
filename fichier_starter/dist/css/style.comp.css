@@ -755,6 +755,11 @@ a {
 .menu__link:hover {
   color: #82a6c7; }
 
+.maison__title {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder; }
+
 .maison__cards {
   display: grid;
   grid-template-columns: repeat(3, 33.33%);
@@ -789,8 +794,6 @@ a {
       width: 7rem;
       border: 1px;
       border-radius: 50%; }
-    .maison__cards--card .fas {
-      margin-right: 1em; }
     .maison__cards--card button {
       background-color: #5b9bd5;
       border: none;
