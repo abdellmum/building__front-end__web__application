@@ -117,13 +117,33 @@ background-image: url(/fichier_starter/dist/img/f);
        &__copy{
          display: flex;
          flex-direction: column;
+         margin-top: 4em;
         
        }
+      &__col2 li{
+          display:flex;
+          flex-direction: column;
+          margin: 0em;
+      }
       
    }
+   .logo2{
+    img{  
+        width: 73%;
+        height: 50%;
+        margin: -9em;
+    }
+} 
 
+  
 
- }
+&__email {
+    margin-top: 1em;
+}
+    
+      
+
+  }
 
 
 
