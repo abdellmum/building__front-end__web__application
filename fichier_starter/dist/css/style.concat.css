@@ -4832,7 +4832,21 @@ html body {
 @media only screen and (max-width: 900px) {
   .footers__copy {
     display: flex;
-    flex-direction: column; } }
+    flex-direction: column;
+    margin-top: 4em; }
+  .footers__col2 li {
+    display: flex;
+    flex-direction: column;
+    margin: 0em; }
+  .logo2 img {
+    width: 73%;
+    height: 50%;
+    margin: -9em; }
+  __col2 {
+    padding-top: 1em;
+    text-align: center; }
+  __email {
+    margin-top: 1em; } }
 
 .modal {
   display: flex;
@@ -5219,6 +5233,11 @@ a {
 .menu__link:hover {
   color: #82a6c7; }
 
+.maison__title {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder; }
+
 .maison__cards {
   display: grid;
   grid-template-columns: repeat(3, 33.33%);
@@ -5253,8 +5272,6 @@ a {
       width: 7rem;
       border: 1px;
       border-radius: 50%; }
-    .maison__cards--card .fas {
-      margin-right: 1em; }
     .maison__cards--card button {
       background-color: #5b9bd5;
       border: none;
